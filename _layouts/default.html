@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#000000">
     <meta name="color-scheme" content="dark">
-    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <title>{% if page.page_class == 'home' %}{{ site.title }}{% elsif page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
     <link rel="icon" href="{{ '/assets/artwork-logo.svg' | relative_url }}" type="image/svg+xml">
     <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
