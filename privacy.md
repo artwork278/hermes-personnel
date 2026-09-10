@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Politique de confidentialité
-description: Politique de confidentialité de Hermes Personnel, outil privé et auto-hébergé de gestion de messagerie.
+description: Politique de confidentialité de Hermes, outil privé et auto-hébergé de gestion de messagerie.
 permalink: /privacy.html
 page_class: privacy
 ---
@@ -9,7 +9,7 @@ page_class: privacy
 <header class="document-hero">
   <p class="eyebrow">Artwork · Confiance & transparence</p>
   <h1>Politique de<br><span>confidentialité</span></h1>
-  <p>Une présentation claire des données utilisées par Hermes Personnel, de leur finalité et du contrôle conservé par le propriétaire.</p>
+  <p>Une présentation claire des données utilisées par Hermes, de leur finalité et du contrôle conservé par le propriétaire.</p>
   <p class="document-date">Dernière mise à jour · 10 septembre 2026</p>
 </header>
 
@@ -37,13 +37,13 @@ page_class: privacy
     <section id="champ-application">
       <span class="section-number" aria-hidden="true">01</span>
       <h2>Champ d’application</h2>
-      <p>Hermes Personnel est un outil privé et auto-hébergé, utilisé exclusivement par le propriétaire du compte Google autorisé. Il n’est pas proposé au public et ne comporte aucun compte utilisateur tiers.</p>
+      <p>Hermes est un outil privé et auto-hébergé, utilisé exclusivement par le propriétaire du compte Google autorisé. Il n’est pas proposé au public et ne comporte aucun compte utilisateur tiers.</p>
     </section>
 
     <section id="donnees-gmail">
       <span class="section-number" aria-hidden="true">02</span>
       <h2>Données Gmail utilisées</h2>
-      <p>Hermes Personnel peut accéder aux données nécessaires à l’organisation de la boîte Gmail autorisée, notamment aux métadonnées, au contenu des messages, aux pièces jointes et aux libellés.</p>
+      <p>Hermes peut accéder aux données nécessaires à l’organisation de la boîte Gmail autorisée, notamment aux métadonnées, au contenu des messages, aux pièces jointes et aux libellés.</p>
       <p>L’autorisation Gmail permet à l’outil de lire les messages, gérer les libellés, archiver des messages et les déplacer vers la corbeille selon les règles et les décisions définies par le propriétaire.</p>
     </section>
 
@@ -56,20 +56,20 @@ page_class: privacy
     <section id="prestataires">
       <span class="section-number" aria-hidden="true">04</span>
       <h2>Prestataires techniques, partage et vente</h2>
-      <p>L’orchestration de Hermes Personnel et son historique opérationnel s’exécutent sur l’infrastructure privée contrôlée par le propriétaire. Lorsque l’analyse d’un message le nécessite, les données utiles peuvent être transmises au fournisseur de modèle d’intelligence artificielle configuré par le propriétaire, actuellement OpenAI, uniquement afin d’exécuter l’action demandée.</p>
-      <p>Hermes Personnel ne vend ni ne loue les données Gmail et ne les utilise pas pour faire de la publicité. Le traitement réalisé par un prestataire technique reste soumis aux paramètres et aux conditions du service choisi par le propriétaire.</p>
+      <p>L’orchestration de Hermes et son historique opérationnel s’exécutent sur l’infrastructure privée contrôlée par le propriétaire. Lorsque l’analyse d’un message le nécessite, les données utiles peuvent être transmises au fournisseur de modèle d’intelligence artificielle configuré par le propriétaire, actuellement OpenAI, uniquement afin d’exécuter l’action demandée.</p>
+      <p>Hermes ne vend ni ne loue les données Gmail et ne les utilise pas pour faire de la publicité. Le traitement réalisé par un prestataire technique reste soumis aux paramètres et aux conditions du service choisi par le propriétaire.</p>
     </section>
 
     <section id="conservation">
       <span class="section-number" aria-hidden="true">05</span>
       <h2>Conservation et sécurité</h2>
-      <p>Hermes Personnel ne publie aucune copie de la boîte Gmail. Les éventuelles données opérationnelles nécessaires au fonctionnement, au suivi des actions et à leur annulation sont conservées sur l’infrastructure privée du propriétaire, selon sa configuration et protégées par les contrôles d’accès du système.</p>
+      <p>Hermes ne publie aucune copie de la boîte Gmail. Les éventuelles données opérationnelles nécessaires au fonctionnement, au suivi des actions et à leur annulation sont conservées sur l’infrastructure privée du propriétaire, selon sa configuration et protégées par les contrôles d’accès du système.</p>
     </section>
 
     <section id="controle">
       <span class="section-number" aria-hidden="true">06</span>
       <h2>Contrôle et révocation</h2>
-      <p>Le propriétaire garde le contrôle de ses données et peut révoquer à tout moment l’accès de Hermes Personnel depuis les paramètres de sécurité de son compte Google. La révocation empêche tout nouvel accès via l’autorisation concernée.</p>
+      <p>Le propriétaire garde le contrôle de ses données et peut révoquer à tout moment l’accès de Hermes depuis les paramètres de sécurité de son compte Google. La révocation empêche tout nouvel accès via l’autorisation concernée.</p>
     </section>
 
     <section id="contact">

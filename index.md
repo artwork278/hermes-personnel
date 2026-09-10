@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hermes Personnel
+title: Hermes
 description: Outil privé et auto-hébergé pour examiner, organiser et nettoyer une messagerie Gmail.
 permalink: /
 page_class: home
@@ -10,7 +10,7 @@ page_class: home
   <div class="hero__copy">
     <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Artwork private system · Auto-hébergé</p>
     <h1 id="hero-title">Votre messagerie.<br><span>Sous contrôle</span><i aria-hidden="true">_</i></h1>
-    <p class="hero__lead">Hermes Personnel examine, organise et nettoie une boîte Gmail selon les décisions de son propriétaire — rien de plus.</p>
+    <p class="hero__lead">Hermes examine, organise et nettoie une boîte Gmail selon les décisions de son propriétaire — rien de plus.</p>
     <div class="hero__actions">
       <a class="button button--primary" href="{{ '/privacy.html' | relative_url }}">
         Politique de confidentialité
@@ -75,7 +75,7 @@ page_class: home
     <h2 id="principle-title">Privé par destination.<br>Transparent par conception.</h2>
   </div>
   <div class="principle__copy">
-    <p>Hermes Personnel n’est ni commercialisé ni proposé à d’autres utilisateurs. Son accès peut être révoqué à tout moment depuis le compte Google concerné.</p>
+    <p>Hermes n’est ni commercialisé ni proposé à d’autres utilisateurs. Son accès peut être révoqué à tout moment depuis le compte Google concerné.</p>
     <a class="text-link text-link--bright" href="{{ '/privacy.html' | relative_url }}">Lire les engagements de confidentialité</a>
   </div>
 </section>
