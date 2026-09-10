@@ -7,7 +7,7 @@ page_class: privacy
 ---
 
 <header class="document-hero">
-  <p class="eyebrow">Confiance & transparence</p>
+  <p class="eyebrow">Artwork · Confiance & transparence</p>
   <h1>Politique de<br><span>confidentialité</span></h1>
   <p>Une présentation claire des données utilisées par Hermes Personnel, de leur finalité et du contrôle conservé par le propriétaire.</p>
   <p class="document-date">Dernière mise à jour · 10 septembre 2026</p>

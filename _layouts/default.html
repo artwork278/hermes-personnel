@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#07120f">
-    <meta name="color-scheme" content="dark light">
+    <meta name="theme-color" content="#000000">
+    <meta name="color-scheme" content="dark">
     <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
-    <link rel="icon" href="{{ '/assets/hermes-mark.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="icon" href="{{ '/assets/artwork-logo.svg' | relative_url }}" type="image/svg+xml">
     <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
   </head>
   <body class="page page--{{ page.page_class | default: 'default' }}">
@@ -17,8 +17,8 @@
 
     <header class="site-header">
       <a class="brand" href="{{ '/' | relative_url }}" aria-label="Hermes Personnel — Accueil">
-        <img src="{{ '/assets/hermes-mark.svg' | relative_url }}" alt="">
-        <span>Hermes <strong>Personnel</strong></span>
+        <img src="{{ '/assets/artwork-logo.svg' | relative_url }}" alt="">
+        <span><strong>Hermes</strong> Personnel</span>
       </a>
       <nav class="site-nav" aria-label="Navigation principale">
         <a href="{{ '/' | relative_url }}" {% if page.page_class == 'home' %}aria-current="page"{% endif %}>Accueil</a>
@@ -32,7 +32,7 @@
 
     <footer class="site-footer">
       <a class="brand brand--footer" href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/hermes-mark.svg' | relative_url }}" alt="">
+        <img src="{{ '/assets/artwork-logo.svg' | relative_url }}" alt="">
         <span>Hermes Personnel</span>
       </a>
       <p>Outil privé · Données sous contrôle</p>

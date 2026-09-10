@@ -8,8 +8,8 @@ page_class: home
 
 <section class="hero" aria-labelledby="hero-title">
   <div class="hero__copy">
-    <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Outil privé · Auto-hébergé</p>
-    <h1 id="hero-title">Votre messagerie.<br><span>Sous contrôle.</span></h1>
+    <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Artwork private system · Auto-hébergé</p>
+    <h1 id="hero-title">Votre messagerie.<br><span>Sous contrôle</span><i aria-hidden="true">_</i></h1>
     <p class="hero__lead">Hermes Personnel examine, organise et nettoie une boîte Gmail selon les décisions de son propriétaire — rien de plus.</p>
     <div class="hero__actions">
       <a class="button button--primary" href="{{ '/privacy.html' | relative_url }}">
@@ -28,7 +28,7 @@ page_class: home
     <div class="trust-panel__visual" aria-hidden="true">
       <span class="orbit orbit--outer"></span>
       <span class="orbit orbit--inner"></span>
-      <img src="{{ '/assets/hermes-mark.svg' | relative_url }}" alt="">
+      <img src="{{ '/assets/artwork-logo.svg' | relative_url }}" alt="">
     </div>
     <dl class="trust-panel__facts">
       <div><dt>Utilisateurs</dt><dd>1 propriétaire</dd></div>
